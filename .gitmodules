@@ -1,0 +1,21 @@
+[submodule "flask-web"]
+	path = flask-web
+	url = https://github.com/Yonsei-Maist/flask-web.git
+[submodule "flask-api"]
+	path = flask-api
+	url = https://github.com/Yonsei-Maist/flask-api.git
+[submodule "Base-ReactJs"]
+	path = Base-ReactJs
+	url = https://github.com/Yonsei-Maist/Base-ReactJs.git
+[submodule "maist-model-core"]
+	path = maist-model-core
+	url = https://github.com/Yonsei-Maist/maist-model-core.git
+[submodule "maist-char-rnn"]
+	path = maist-char-rnn
+	url = https://github.com/Yonsei-Maist/maist-char-rnn.git
+[submodule "maist-nlp"]
+	path = maist-nlp
+	url = https://github.com/Yonsei-Maist/maist-nlp.git
+[submodule "maist-nlp-4j"]
+	path = maist-nlp-4j
+	url = https://github.com/Yonsei-Maist/maist-nlp-4j.git
