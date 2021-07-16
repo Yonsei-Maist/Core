@@ -19,3 +19,6 @@
 [submodule "maist-nlp-4j"]
 	path = maist-nlp-4j
 	url = https://github.com/Yonsei-Maist/maist-nlp-4j.git
+[submodule "maist-model-core-js-client"]
+	path = maist-model-core-js-client
+	url = https://github.com/Yonsei-Maist/maist-model-core-js-client.git
